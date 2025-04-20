@@ -96,5 +96,7 @@ The SQL database is provided inside the [SQL](./Assets/SQL/) folder.
 ## 🇳🇵 Cultural Touch
 Yatri (यात्री) means “traveler” in Nepali — a warm, friendly companion that walks with users on their phone-buying journey. A blend of tradition and tech!
 
+***Project developed from minimal use of langchain framework***
+
 ## Author
 [Vishal Sigdel](https://github.com/Page-Vishal)
