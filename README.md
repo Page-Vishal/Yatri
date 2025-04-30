@@ -81,7 +81,7 @@ postgresql://{user}:{password}@{host}:{port}/{database}
 ```
 
 #### - SQL DATABASE
-The SQL database is provided inside the [SQL](./Assets/SQL/) folder.
+The SQL database tables are provided inside the [SQL](./Assets/SQL/) folder.
  - [tbl_phones](./Assets/SQL/tbl_phones.sql)
  - [tbl_accessories](./Assets/SQL/tbl_accessories.sql)
  - [tbl_cart](./Assets/SQL/tbl_cart.sql)
